@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cupom", "Cupom\Cupom.csproj", "{461C3069-9E5E-4D9D-A944-EDE477FC17C0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Real Estruturas Cupom", "Real Estruturas Cupom\Real Estruturas Cupom.vdproj", "{EB635457-4A2D-4268-8B4D-F774EC1A737A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461C3069-9E5E-4D9D-A944-EDE477FC17C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461C3069-9E5E-4D9D-A944-EDE477FC17C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461C3069-9E5E-4D9D-A944-EDE477FC17C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461C3069-9E5E-4D9D-A944-EDE477FC17C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB635457-4A2D-4268-8B4D-F774EC1A737A}.Debug|Any CPU.ActiveCfg = Debug
+		{EB635457-4A2D-4268-8B4D-F774EC1A737A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2414BC29-6516-49D5-A8FF-5ABB9C7F97D6}
+	EndGlobalSection
+EndGlobal
